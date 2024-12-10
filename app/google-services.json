@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980563845230",
+    "firebase_url": "https://nomo-eff5f-default-rtdb.firebaseio.com",
+    "project_id": "nomo-eff5f",
+    "storage_bucket": "nomo-eff5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980563845230:android:b6ae7cff63400690e2c67f",
+        "android_client_info": {
+          "package_name": "com.quantum.gps2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980563845230-q03up5g0ilsnju2jtgvj26rrg1o3jqrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjX0eWCyanK3y2zI_H46mwNukkhgApBMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980563845230-q03up5g0ilsnju2jtgvj26rrg1o3jqrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

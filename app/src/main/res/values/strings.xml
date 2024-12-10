@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NoMo-WC</string>
+    <string name="bt_iniciar">Iniciar</string>
+    <string name="bt_detener">Detener</string>
+    <string name="textdatos">Datos</string>
+    <string name="btimei">IMEI</string>
+    <string name="iniciar">GPS</string>
+    <string name="lectura">Search</string>
+    <string name="ble_no_supported">BLE Not Supported</string>
+    <string name="error_bluetooth_not_supported">Erro Bluetooth Not Supported</string>
+    <string name="pdu">PDU</string>
+    <string name="btenviar">Send</string>
+    <string name="socket">OpenSck</string>
+    <string name="evento44">\nWheelChair</string>
+    <string name="evento11">\nKeep alive</string>
+    <string name="evento90">\nMovement</string>
+    <string name="evento91">\nChangeWay</string>
+    <string name="tag">\nDevice:</string>
+    <string name="version">\nVersion:0.8</string>
+    <string name="default_notification_channel_id">\nNotification</string>
+    <string name="msg_token_fmt">Notification Server</string>
+
+</resources>

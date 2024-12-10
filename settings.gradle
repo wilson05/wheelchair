@@ -1,0 +1,2 @@
+rootProject.name='gps2'
+include ':app'
